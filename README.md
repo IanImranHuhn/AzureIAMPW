@@ -17,22 +17,6 @@
   - If needed, follow steps to reset and record a new password.
   - Return to the beginning of the guide after resetting.
 
-<h2>How to read each section (in this order)</h2>
-
-<b>Section-Intro</b> 
-- <b>Title: </b>Name of the section.
-- <b>Description: </b>Describe what the section entails. Some sections won’t have descriptions. 
-
-<b>Image</b> 
-- <b>Numbering: </b>Within the images are sequential numbers, with corresponding text explanations directly below each image.
-- <b>Yellow highlights: </b>Yellow highlights are navigation aids to help identify your current section in the Azure portal.
-
-<b>Text numbers</b> 
-- <b>Numbers: </b>Each number provides a brief explanation of the image directly above it.
-
-<b>Side notes</b> 
-- <b>Notes: </b>Any extra details you should be aware of.
-
 <h2>Introduction</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Welcome to this guide on logging into the IAM user account. In this tutorial, we will walk you through the steps to log in using the IAM user credentials that you have set up. It is essential to ensure that you have both the username and the provided password handy. If you do not have the password, there is a section on resetting it that you can refer to.
