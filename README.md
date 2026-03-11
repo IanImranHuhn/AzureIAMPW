@@ -25,7 +25,7 @@
 
 <b>Description: </b>Now that we've created a user and assigned a role, we can log in using the IAM user credentials. Ensure you have the username and have copied the provided password. If you haven't copied the password, please refer to the "reset password" section below. I'll show you how to reset the password at the end of this guide.
 
-![01_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/53f4e086-7aea-438c-a0ca-1fb44edcd56b)
+<img width="1600" height="728" alt="3img" src="https://github.com/user-attachments/assets/5cd7f216-7340-49bc-9907-e0aa5803e5a0" />
 
 0.  If you're currently logged in, please log out.
 1.  Now, sign in by clicking on "Use another account" and entering the IAM user credentials that were set up earlier. In this case, use "labuser2".
@@ -34,7 +34,7 @@
 
 <b>Description: </b>Before successfully logging into the IAM user account, you need to set up two-factor authentication (2FA) for this account. To do this, install the "Microsoft Authenticator" app on your smartphone or tablet and complete the verification process.
 
-![02_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/f621b17e-5584-4f96-a176-9b21e37e8911)
+<img width="542" height="600" alt="2img" src="https://github.com/user-attachments/assets/506547a7-ed39-4b6f-b848-0b1dc0d3b204" />
 
 0.  Ensure you install and set up the "Microsoft Authenticator" app on a smartphone or tablet.
 1.  Click "Next" to begin the authentication process and follow the provided instructions.
@@ -45,7 +45,7 @@ Note: After completing the authentication, you will be prompted to create a new 
 
 <b>Description: </b>If you don't have the password for the initial login, this portion of the guide will take you through the process of resetting it. Follow these steps to reset and record the new password. Once the password has been reset and noted, return to the beginning of this guide and follow the steps from the start.
 
-![03_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/c33f5a67-61ba-479e-8c74-41d4ee52b84e)
+<img width="681" height="646" alt="1img" src="https://github.com/user-attachments/assets/2fb9605d-4b3b-46ed-9bac-46d99e9d30fd" />
 
 1.  Go to the users section and select the specific user whose password you want to reset.
 2.  Click on "Reset Password," and a panel will appear on the right.
